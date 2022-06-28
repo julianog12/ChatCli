@@ -1,0 +1,15 @@
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.csproj.AssemblyReference.cache
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.AssemblyInfoInputs.cache
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.AssemblyInfo.cs
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.csproj.CoreCompileInputs.cache
+D:\programas\dotnetapp\ChatCli2\bin\Debug\net6.0\ChatCli2.exe
+D:\programas\dotnetapp\ChatCli2\bin\Debug\net6.0\ChatCli2.deps.json
+D:\programas\dotnetapp\ChatCli2\bin\Debug\net6.0\ChatCli2.runtimeconfig.json
+D:\programas\dotnetapp\ChatCli2\bin\Debug\net6.0\ChatCli2.dll
+D:\programas\dotnetapp\ChatCli2\bin\Debug\net6.0\ChatCli2.pdb
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.dll
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\refint\ChatCli2.dll
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.pdb
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ChatCli2.genruntimeconfig.cache
+D:\programas\dotnetapp\ChatCli2\obj\Debug\net6.0\ref\ChatCli2.dll
